@@ -1,0 +1,18 @@
+.inread{
+    color:lightseagreen;
+    height: 150px;
+    border-style: groove;
+    border-width: 5px;
+    margin: 400px 100px 100px 100px;
+    padding-left: 60px;
+    font-size: 20px;
+    font-family:"georgia";
+}
+.inread form{
+    height:80%;
+    width:100%;
+    margin-bottom: 600px;
+}
+.inread input{
+    margin-left: 50px;
+}

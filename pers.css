@@ -1,0 +1,17 @@
+.inpage {
+    margin-top: 40px;
+}
+
+.inpage button {
+    color: blue;
+    font-size: medium;
+    width: 300px;
+    height: 70px;
+}
+
+.dispage button {
+    color: blue;
+    font-size: medium;
+    width: 300px;
+    height: 70px;
+}
